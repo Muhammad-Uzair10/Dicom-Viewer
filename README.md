@@ -24,3 +24,5 @@ This repository contains a simple Python script to load, process, and visualize 
    git clone https://github.com/yourusername/dicom-multi-frame-viewer.git
    cd dicom-multi-frame-viewer
 
+2. Replace the patch of file 
+
